@@ -95,7 +95,9 @@ $(document).ready(function(){
 			"salesperson",
 			"did some thinking",
 			"today",
-			"yeahhh"
+			"yeahhh",
+			"Boomer",
+			"on the line"
 		);
 
 		var tempBingoList = fullBingoList;
